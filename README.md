@@ -1,6 +1,6 @@
-# Seja bem vindo ✔
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00be20&height=90&section=header&text=Bem+Vindo&fontSize=24&fontFamily=Cursive"/>
 
-Sou Dilione Junior, estudante de programação 📝
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00be20&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Dilione+Junior+;Tenho+25+anos+de+idade;residuo+em+Jacareí,+SP;Atualmente+estudo+programação+no+time+alura;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 📚 Estudando atualmente : Javascrip e lógica da programação 
 
@@ -10,15 +10,14 @@ Sou Dilione Junior, estudante de programação 📝
 
 💻 EmpowerCodePcd Zenvia 🦾🦿 
 ##
-<div style="display: inline_block"><br>
-  <img align="center" alt="dilione-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="dilione-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="dilione-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dilione&show_icons=true&count_private=true&hide_border=true&title_color=00be20&icon_color=00be20&text_color=c9d1d9&bg_color=0d1117" alt="Dilione Junior github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilione&layout=compact&hide_border=true&title_color=00be20&text_color=00be20&bg_color=0d1117" />
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilione&show_icons=true&theme=tokyonight)
 ##
+
 🎯 Foco em aprendizado !
 
 “A genialidade é 1% inspiração e 99% transpiração 📈.” – Thomas Edson
