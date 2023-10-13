@@ -28,5 +28,5 @@
 </div>
 
 
-  ![Snake animation](https://github.com/dilionejunior/dilionejunior/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dilione-junior/dilione-junior/blob/output/github-contribution-grid-snake.svg)
   
