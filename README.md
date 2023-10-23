@@ -12,8 +12,8 @@
 ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dilione&show_icons=true&count_private=true&hide_border=true&title_color=00be20&icon_color=00be20&text_color=c9d1d9&bg_color=0d1117" alt="Dilione Junior github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilione&layout=compact&hide_border=true&title_color=00be20&text_color=00be20&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dilione-junior&show_icons=true&count_private=true&hide_border=true&title_color=00be20&icon_color=00be20&text_color=c9d1d9&bg_color=0d1117" alt="Dilione Junior github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilione-junior&layout=compact&hide_border=true&title_color=00be20&text_color=00be20&bg_color=0d1117" />
 </div>
 
 ##
@@ -28,5 +28,5 @@
 </div>
 
 
-  ![Snake animation](https://github.com/dilione/dilione/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dilione-junior/dilione-junior/blob/output/github-contribution-grid-snake.svg)
   
