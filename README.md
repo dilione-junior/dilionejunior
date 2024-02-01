@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00be20&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Dilione+Junior+;Tenho+25+anos+de+idade;residuo+em+Jacareí,+SP;Atualmente+estudo+programação+no+time+alura;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-📚 Estudando atualmente : Javascrip e lógica da programação 
+📚 Estudando atualmente : Segurança da Informação
 
 🛶 Praticando desafios e cursos time Alura <br>
 
